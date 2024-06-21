@@ -1,9 +1,28 @@
-## Hi there 👋
-# 💫 About Me:
-I'm **Deepak Kumar**, a B.Tech Computer Science student passionate about exploring frontend development. As a fresher in the tech industry, I'm enthusiastic about learning and diving into new technologies.<br>🌱 **Currently Learning**<br>I am currently focusing on improving my skills in:<br><br>JavaScript: Exploring the fundamentals and advanced concepts.<br>Frontend Development: Delving into HTML, CSS, and various frameworks/libraries.
+# About Me
 
+## Hi there! 👋
 
-## 🌐 Socials:
+I'm **Deepak Kumar**, a B.Tech Computer Science student passionate about exploring frontend development. As a fresher in the tech industry, I'm enthusiastic about learning and diving into new technologies.
+
+### 🌱 Currently Learning
+
+I am currently focusing on improving my skills in:
+
+- **JavaScript**: Exploring the fundamentals and advanced concepts.
+- **Frontend Development**: Delving into HTML, CSS, and various frameworks/libraries.
+
+### 💡 What I Bring to the Table
+
+- **Fast Learner**: I have a strong appetite for learning new things and quickly adapting to changes.
+- **Problem Solver**: I enjoy tackling challenges and finding innovative solutions.
+- **Collaborative Spirit**: I believe in the power of teamwork and open communication to achieve goals effectively.
+
+### 📚 Education
+
+- **Degree**: Pursuing B.Tech in Computer Science Engineering.
+- **University**:GNA University,Phagwara
+
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.d33pak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-105840232) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ideepakmukhia) 
 
 # 💻 Tech Stack:
